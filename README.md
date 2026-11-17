@@ -51,6 +51,4 @@ false.
 
 Los correos de ejemplo (`c1` a `c4`) y los dominios son **ficticios**. El repositorio no contiene datos reales ni información sensible.
 
-## Bibliografía
 
-Russell, S. y Norvig, P. (2004). *Inteligencia artificial: un enfoque moderno* (2.ª ed.). Pearson Prentice Hall.
